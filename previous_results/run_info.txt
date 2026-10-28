@@ -1,0 +1,8 @@
+scikit-learn 1.7.2 (pinned 1.7.2)
+split seed 42, sampling seeds (0, 1, 2, 3, 4)
+n = 10, k = 20, gammas = (0, 1, 2, 4)
+HGB parameters: {'max_iter': 10, 'early_stopping': False, 'categorical_features': None}
+threshold 0.5
+train {'rows': 170235, 'N': 169951, 'P': 284, 'imbalance_ratio': 598.419014084507}
+test {'rows': 56746, 'N': 56651, 'P': 95, 'imbalance_ratio': 596.3263157894737}
+failed runs: 0
